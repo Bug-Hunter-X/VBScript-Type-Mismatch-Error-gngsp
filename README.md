@@ -1,0 +1,1 @@
+This repository contains a VBScript function that demonstrates a type mismatch error. The function `f` compares two values 'a' and 'b' and displays a message box indicating their relationship. However, if either 'a' or 'b' is not a number, a runtime error occurs. The solution demonstrates how to handle this error using error handling.
